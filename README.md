@@ -21,7 +21,7 @@ Una vez instalado ya ofrece toda la funcionalidad de un Hosting de pago para la 
 
 ### Servidor Juegos
 <img src='https://raw.githubusercontent.com/tenshi98/propio_Home-Lab/main/src/Pterodactyl_1.jpg' />
-Para poder utilizarlo realicé una instalación de Lubuntu mínimal, luego instalé Docker y sobre éste instale Portainer. Utilizo este servidor para hostear minecraft, Counter-Strike, Project Zomboid entre otros a través de contenedores hechos para cada juego.
+Para poder utilizarlo realicé una instalación de Lubuntu mínimal, luego instalé Docker y sobre éste instale Portainer para administrar los contenedores. Utilizo este servidor para hostear minecraft, Counter-Strike, Project Zomboid entre otros a través de contenedores hechos para cada juego.
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
